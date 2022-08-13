@@ -1,0 +1,14 @@
+{
+  "name": "algorithm-sorted-union",
+  "version": "1.0.0",
+  "description": "Solution and testing for the sorted union algorithm",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "author": "Ben Berry",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
