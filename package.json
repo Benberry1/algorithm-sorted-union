@@ -4,7 +4,8 @@
   "description": "Solution and testing for the sorted union algorithm",
   "main": "solution.js",
   "scripts": {
-    "test": "jest "
+    "test": "jest",
+    "test:watch": "jest --watchAll"
   },
   "author": "Ben Berry",
   "license": "ISC",
